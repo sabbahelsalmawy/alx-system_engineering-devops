@@ -1,2 +1,3 @@
 where am i
-write pwd
+write pw
+
