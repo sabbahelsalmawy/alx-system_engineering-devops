@@ -1,1 +1,2 @@
 #!/bin/bash
+printenv PATH | grep -o bin | wc -l
