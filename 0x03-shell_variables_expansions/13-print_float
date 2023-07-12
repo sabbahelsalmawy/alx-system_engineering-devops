@@ -1,2 +1,2 @@
 #!/bin/bash
-printf "%02d$NUM \n"
+printf "|%02d| \n" $NUM
